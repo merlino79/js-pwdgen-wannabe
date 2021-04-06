@@ -1,0 +1,1 @@
+var ilNome = prompt("come ti chiami");
